@@ -1,2 +1,2 @@
 # SSHit
-something like ssh client
+something like a ssh client
